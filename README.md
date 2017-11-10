@@ -1,2 +1,2 @@
 # delta-upsilon
-Website for DU
+Website for Delta Upsilon Purdue
